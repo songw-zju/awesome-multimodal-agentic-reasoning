@@ -8,6 +8,7 @@ Multimodal agentic reasoning aims to enable AI systems to perceive, reason, and 
 | Dataset | Paper | Venue | Huggingface | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
 ||
+| `MAT` | [![arXiv](https://img.shields.io/badge/arXiv-2505.14246-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.14246)<br>Visual Agentic Reinforcement Fine-Tuning | arXiv 2025 | [![Huggingface](https://img.shields.io/badge/Dataset-HuggingFace-orange?logo=huggingface)](https://huggingface.co/datasets/laolao77/MAT) | [![GitHub](https://img.shields.io/github/stars/Liuziyu77/Visual-RFT)](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT) |
 | `Agent-X` | [![arXiv](https://img.shields.io/badge/arXiv-2505.24876-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.24876)<br>Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks| arXiv 2025 | [![Huggingface](https://img.shields.io/badge/Dataset-HuggingFace-orange?logo=huggingface)](https://huggingface.co/datasets/Tajamul21/Agent-X) | [![GitHub](https://img.shields.io/github/stars/mbzuai-oryx/Agent-X)](https://github.com/mbzuai-oryx/Agent-X) |
 
 ## Methods
@@ -27,4 +28,11 @@ Multimodal agentic reasoning aims to enable AI systems to perceive, reason, and 
 
 ## Related Surveys and Repos
 [Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models](https://github.com/HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models)
+
+## Contributing
+We welcome contributions from the community! Feel free to submit pull requests or issues to add:
+- New datasets and benchmarks.
+- Novel methods and models.
+- Toolkits, frameworks, or evaluation protocols.
+- Relevant papers and resources.
 

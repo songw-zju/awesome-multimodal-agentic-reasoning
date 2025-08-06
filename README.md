@@ -8,6 +8,11 @@ Multimodal agentic reasoning aims to enable AI systems to perceive, reason, and 
 | Dataset | Paper | Venue | Huggingface | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
 ||
+| `GAIA` | [![arXiv](https://img.shields.io/badge/arXiv-2311.12983-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2311.12983)<br>GAIA: a benchmark for General AI Assistants| ICLR 2024 | [![Huggingface](https://img.shields.io/badge/Dataset-HuggingFace-orange?logo=huggingface)](https://huggingface.co/datasets/gaia-benchmark/GAIA) | - |
+| `GTA` | [![arXiv](https://img.shields.io/badge/arXiv-2407.08713-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2407.08713)<br>GTA: A Benchmark for General Tool Agents| NeurIPS 2024 | [![Huggingface](https://img.shields.io/badge/Dataset-HuggingFace-orange?logo=huggingface)](https://huggingface.co/datasets/Jize1/GTA) | [![GitHub](https://img.shields.io/github/stars/open-compass/GTA)](https://github.com/open-compass/GTA) |
+| `MLE-Bench` | [![arXiv](https://img.shields.io/badge/arXiv-2410.07095-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2410.07095)<br>MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering| arXiv 2024 | -| [![GitHub](https://img.shields.io/github/stars/openai/mle-bench)](https://github.com/openai/mle-bench) |
+| `MMBench` | [![arXiv](https://img.shields.io/badge/arXiv-2307.06281-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2307.06281)<br>MMBench: Is Your Multi-modal Model an All-around Player?| ECCV 2024 | - | [![GitHub](https://img.shields.io/github/stars/open-compass/MMBench)](https://github.com/open-compass/MMBench) |
+| `MLGym` | [![arXiv](https://img.shields.io/badge/arXiv-2502.14499-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2502.14499)<br>MLGym: A New Framework and Benchmark for Advancing AI Research Agents| arXiv 2025 | - | [![GitHub](https://img.shields.io/github/stars/facebookresearch/MLGym)](https://github.com/facebookresearch/MLGym) |
 | `MAT` | [![arXiv](https://img.shields.io/badge/arXiv-2505.14246-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.14246)<br>Visual Agentic Reinforcement Fine-Tuning | arXiv 2025 | [![Huggingface](https://img.shields.io/badge/Dataset-HuggingFace-orange?logo=huggingface)](https://huggingface.co/datasets/laolao77/MAT) | [![GitHub](https://img.shields.io/github/stars/Liuziyu77/Visual-RFT)](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT) |
 | `Agent-X` | [![arXiv](https://img.shields.io/badge/arXiv-2505.24876-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.24876)<br>Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks| arXiv 2025 | [![Huggingface](https://img.shields.io/badge/Dataset-HuggingFace-orange?logo=huggingface)](https://huggingface.co/datasets/Tajamul21/Agent-X) | [![GitHub](https://img.shields.io/github/stars/mbzuai-oryx/Agent-X)](https://github.com/mbzuai-oryx/Agent-X) |
 
@@ -24,10 +29,14 @@ Multimodal agentic reasoning aims to enable AI systems to perceive, reason, and 
 |:-:|:-|:-:|:-:|:-:|
 ||
 | `Kimi K2` | [![report](https://img.shields.io/badge/arXiv-2507.20534-b31b1b?style=flat-square&logo=report)](https://arxiv.org/abs/2507.20534)<br>Kimi K2: Open Agentic Intelligence| arXiv 2025 | [![Huggingface](https://img.shields.io/badge/Model-HuggingFace-orange?logo=huggingface)](https://huggingface.co/collections/moonshotai/kimi-k2-6871243b990f2af5ba60617d) | [![GitHub](https://img.shields.io/github/stars/MoonshotAI/Kimi-K2)](https://github.com/MoonshotAI/Kimi-K2) |
+| `GLM-4.5` | [![report](https://img.shields.io/badge/GLM-4.5-b31b1b?style=flat-square&logo=report)](https://z.ai/blog/glm-4.5)<br>GLM-4.5: Reasoning, Coding, and Agentic Abililties| 2025 | [![Huggingface](https://img.shields.io/badge/Model-HuggingFace-orange?logo=huggingface)](https://huggingface.co/zai-org/GLM-4.5) | [![GitHub](https://img.shields.io/github/stars/zai-org/GLM-4.5)](https://github.com/zai-org/GLM-4.5) |
+| `Kimi K2` | [![report](https://img.shields.io/badge/arXiv-2507.20534-b31b1b?style=flat-square&logo=report)](https://arxiv.org/abs/2507.20534)<br>Kimi K2: Open Agentic Intelligence| arXiv 2025 | [![Huggingface](https://img.shields.io/badge/Model-HuggingFace-orange?logo=huggingface)](https://huggingface.co/collections/moonshotai/kimi-k2-6871243b990f2af5ba60617d) | [![GitHub](https://img.shields.io/github/stars/MoonshotAI/Kimi-K2)](https://github.com/MoonshotAI/Kimi-K2) |
 
 
 ## Related Surveys and Repos
 [Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models](https://github.com/HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models)
+[Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers](https://github.com/zhaochen0110/Awesome_Think_With_Images)
+[Efficient Reasoning Models: A Survey](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models)
 
 ## Contributing
 We welcome contributions from the community! Feel free to submit pull requests or issues to add:

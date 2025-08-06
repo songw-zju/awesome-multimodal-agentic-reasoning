@@ -30,13 +30,16 @@ Multimodal agentic reasoning aims to enable AI systems to perceive, reason, and 
 ||
 | `Kimi K2` | [![report](https://img.shields.io/badge/arXiv-2507.20534-b31b1b?style=flat-square&logo=report)](https://arxiv.org/abs/2507.20534)<br>Kimi K2: Open Agentic Intelligence| arXiv 2025 | [![Huggingface](https://img.shields.io/badge/Model-HuggingFace-orange?logo=huggingface)](https://huggingface.co/collections/moonshotai/kimi-k2-6871243b990f2af5ba60617d) | [![GitHub](https://img.shields.io/github/stars/MoonshotAI/Kimi-K2)](https://github.com/MoonshotAI/Kimi-K2) |
 | `GLM-4.5` | [![report](https://img.shields.io/badge/GLM-4.5-b31b1b?style=flat-square&logo=report)](https://z.ai/blog/glm-4.5)<br>GLM-4.5: Reasoning, Coding, and Agentic Abililties| 2025 | [![Huggingface](https://img.shields.io/badge/Model-HuggingFace-orange?logo=huggingface)](https://huggingface.co/zai-org/GLM-4.5) | [![GitHub](https://img.shields.io/github/stars/zai-org/GLM-4.5)](https://github.com/zai-org/GLM-4.5) |
-| `Kimi K2` | [![report](https://img.shields.io/badge/arXiv-2507.20534-b31b1b?style=flat-square&logo=report)](https://arxiv.org/abs/2507.20534)<br>Kimi K2: Open Agentic Intelligence| arXiv 2025 | [![Huggingface](https://img.shields.io/badge/Model-HuggingFace-orange?logo=huggingface)](https://huggingface.co/collections/moonshotai/kimi-k2-6871243b990f2af5ba60617d) | [![GitHub](https://img.shields.io/github/stars/MoonshotAI/Kimi-K2)](https://github.com/MoonshotAI/Kimi-K2) |
+| `gpt-oss` | [![report](https://img.shields.io/badge/gpt-oss-b31b1b?style=flat-square&logo=report)](https://openai.com/index/introducing-gpt-oss)<br>Introducing gpt-oss| 2025 | [![Huggingface](https://img.shields.io/badge/Model-HuggingFace-orange?logo=huggingface)](https://huggingface.co/openai/gpt-oss-120b) | [![GitHub](https://img.shields.io/github/stars/openai/gpt-oss)](https://github.com/openai/gpt-oss) |
 
 
 ## Related Surveys and Repos
 [Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models](https://github.com/HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models)
+
 [Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers](https://github.com/zhaochen0110/Awesome_Think_With_Images)
+
 [Efficient Reasoning Models: A Survey](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models)
+
 
 ## Contributing
 We welcome contributions from the community! Feel free to submit pull requests or issues to add:

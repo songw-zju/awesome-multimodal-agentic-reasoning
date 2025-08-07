@@ -33,6 +33,24 @@ Multimodal agentic reasoning aims to enable AI systems to perceive, reason, and 
 | `gpt-oss` | [![report](https://img.shields.io/badge/gpt-oss-b31b1b?style=flat-square&logo=report)](https://openai.com/index/introducing-gpt-oss)<br>Introducing gpt-oss| 2025 | [![Huggingface](https://img.shields.io/badge/Model-HuggingFace-orange?logo=huggingface)](https://huggingface.co/openai/gpt-oss-120b) | [![GitHub](https://img.shields.io/github/stars/openai/gpt-oss)](https://github.com/openai/gpt-oss) |
 
 
+## Agentic RL for LLMs
+[Reinforcing Language Agents via Policy Optimization with Action Decomposition](https://arxiv.org/abs/2405.15821)
+
+[Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516)
+
+[ReTool: Reinforcement Learning for Strategic Tool Use in LLMs](https://arxiv.org/abs/2504.11536)
+
+[ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/abs/2504.13958)
+
+[Agent RL Scaling Law: Spontaneous Code Execution for Mathematical Problem Solving](https://arxiv.org/abs/2505.07773)
+
+[Agentic Reasoning and Tool Integration for LLMs via Reinforcement Learning](https://arxiv.org/abs/2505.01441)
+
+[Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning](https://arxiv.org/abs/2505.16410)
+
+[Agentic Reinforced Policy Optimization](https://arxiv.org/abs/2507.19849)
+
+
 ## Related Surveys and Repos
 [Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models](https://github.com/HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models)
 
